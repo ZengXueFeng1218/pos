@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://download.jxzpay.com/images_wkzf/xzb_icon.png</string>
+					<string>http://download.fengzhuan.org/images_wkzf/xzb_icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -28,7 +28,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://download.jxzpay.com/images_wkzf/xzb_icon.png</string>
+					<string>http://download.fengzhuan.org/images_wkzf/xzb_icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
